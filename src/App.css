@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(166, 152, 152);
+}
+*{
+  margin:0;
+}
+.container{
+  width: 500px;
+  height: 500px;
+  background-color: crimson;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.element{
+  margin: 1px;
+  height: 100px;
+  background-color: aqua;
+  }
+  .expanded{
+    height: 400px;
+  }
+.element2{
+  margin: 1px;
+  height: 100px;
+  background-color: rgb(0, 255, 55);
+  }
+.item{
+  margin: 1px;
+  height: 40px;
+  background-color: rgb(0, 13, 255);
+}
